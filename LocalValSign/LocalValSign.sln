@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalValSign", "LocalValSign.csproj", "{EFDCD3EB-F4D4-4E47-8D63-1843B68573B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalValDll", "..\LocalValDll\LocalValDll.csproj", "{274EA307-E187-4EAF-9DAC-B988E4F9237E}"
+EndProject
+Global
+	GlobalSection(PowerDesigner) = preSolution
+		HasSWS = 1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDCD3EB-F4D4-4E47-8D63-1843B68573B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDCD3EB-F4D4-4E47-8D63-1843B68573B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDCD3EB-F4D4-4E47-8D63-1843B68573B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDCD3EB-F4D4-4E47-8D63-1843B68573B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274EA307-E187-4EAF-9DAC-B988E4F9237E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274EA307-E187-4EAF-9DAC-B988E4F9237E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274EA307-E187-4EAF-9DAC-B988E4F9237E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274EA307-E187-4EAF-9DAC-B988E4F9237E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

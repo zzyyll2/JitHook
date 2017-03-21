@@ -1,0 +1,1 @@
+# JitHook for C# encode source.

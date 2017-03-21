@@ -1,0 +1,11 @@
+.vs/
+*.VC.db
+.gradle
+/.settings
+/bin
+/gen
+/output
+debug/
+release/
+bin/
+obj/
